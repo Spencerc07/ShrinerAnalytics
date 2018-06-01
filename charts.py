@@ -1,6 +1,4 @@
 '''
-k jus tuse pandas and matplotlib tto chart this hitt.
-
 import data is first step.
 
 '''
